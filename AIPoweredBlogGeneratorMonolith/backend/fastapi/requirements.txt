@@ -1,0 +1,6 @@
+fastapi
+openai
+uvicorn
+pydantic
+python-multipart
+starlette
